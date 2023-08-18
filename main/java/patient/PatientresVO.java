@@ -172,30 +172,30 @@ public class PatientresVO {
 
 	public String getT_gender() {
 		return t_gender;
-    
+	}
 	public void setT_gender(String t_gender) {
 		this.t_gender = t_gender;
-
+	}
     
-  public String getT_age() {
+	public String getT_age() {
 		return t_age;
-      
-  public void setT_age(String t_age) {
+	} 
+	public void setT_age(String t_age) {
 		this.t_age = t_age;
-        
+	}     
     
     
 	public String getLocation() {
 		return location;
-
+	}
 	public void setLocation(String location) {
 		this.location = location;
-
+	}
     
     
 	public String getAddr() {
 		return addr;
-
+	}
 	public void setAddr(String addr) {
 		this.addr = addr;
 	}

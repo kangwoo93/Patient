@@ -171,6 +171,11 @@ public class PatientresDAO {
 					
 					stmnt.close();
 				}
+			}
+				} catch(Exception e) {
+					e.printStackTrace();
+				}
+				return list;
 				
 			}
 			
